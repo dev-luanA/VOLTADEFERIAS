@@ -1,0 +1,67 @@
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #dd9d9d;
+    padding: 10px;
+}
+
+img {
+    width: 100px;
+}
+
+#logo-principal {
+    display: flex;
+    align-items: center;
+}
+
+#logo-principal img {
+    width: 100px;
+}
+
+#titulo {
+    margin-left: 10px;
+}
+
+nav a {
+    margin-left: 15px;
+    text-decoration: none;
+    color: #333;
+}
+
+section {
+    text-align: left;
+    margin-top: 20px;
+}
+
+#logo-formulario {
+    float: left;
+    margin-right: 30px;
+}
+
+#logo-formulario img {
+    width: 300px;
+}
+
+form {
+    float: right;
+    text-align: left;
+    margin-top: 40px;
+}
+
+form label, form input, form button {
+    display: block;
+    margin-bottom: 10px;
+}
+
+h2{
+    float: right;
+    text-align: left;
+    margin-top: 40px;  
+}
+
+body {
+    background-color: antiquewhite;
+    background-image: url(''); /*eu ia colocar uma imagem, a cafeteria, mas não tive tempo para arrumar os outros elementos e ficar visivel de enxergar./*
+}
